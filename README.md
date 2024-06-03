@@ -12,10 +12,9 @@ Feel free to connect with me @kristi11 for all things tech or just to say hello!
 
 ### Talking about Personal Stuff:
 
-- 🛠 &nbsp; I’m currently working with Laravel, Livewire, TailwindCss, Mysql, DigitalOcean.
+- 🛠 &nbsp; I’m currently working with Laravel, Livewire, TailwindCss, Mysql, DigitalOcean. I also use Shopify and WordPress when necessary
 - 🚀 &nbsp; I’m currently exploring AI, Improving Business Management through online tools.
 - 💬 &nbsp; Ask me anything! I am happy to help.
-- 👾 &nbsp; Fun fact: The more stressed i get, the more productive i get.
 - 📫 &nbsp; Reach me out: tanellari@gmail.com.
 
 ### My Absolute Favorites:
@@ -45,6 +44,7 @@ Feel free to connect with me @kristi11 for all things tech or just to say hello!
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kristi11&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </details>
 
+<!---
 <details>
   <summary><b>☄️ Github Streaks</b></summary>
 
@@ -57,7 +57,6 @@ Feel free to connect with me @kristi11 for all things tech or just to say hello!
   <summary><b>⚙️ Things I use to get stuff done</b></summary>
   	<ul>
   	    <li><b>OS:</b> Windows 10</li>
-	    <li><b>Laptop: </b> 6 year old Lenovo laptop</li>
   	    <li><b>Browser: </b> Chrome</li>
 	    <li><b>Terminal: </b> Git Bash</li>
 	    <li><b>Code Editor:</b> PhpStorm - The best editor out there</li>
@@ -65,7 +64,7 @@ Feel free to connect with me @kristi11 for all things tech or just to say hello!
 	    <li><b>To Stay Updated:</b> Twitter, Product Hunt and Laravel News</li>
 	</ul>
 </details>
-
+--->
 #
 
 <div align="center">
